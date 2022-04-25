@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singhtester
-- 👀 I’m interested in ...Flutter,Kotlin,Dart,Android,Java
-- 🌱 I’m currently learning ...Flutter
+- 👀 I’m interested in ...React-Native,Java-Script,Flutter,Kotlin,Dart,Android,Java
+- 🌱 I’m currently learning ...React-Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
